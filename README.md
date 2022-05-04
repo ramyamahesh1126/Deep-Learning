@@ -1,2 +1,22 @@
 # Deep-Learning
 Deep Learning assignments 
+
+Part 1 - supervised_contrastive_learning_loss_based_supervised_classification.ipynb
+
+Part 2 
+
+Transfer_Learning_for_Audio.ipynb
+Transfer_Learning_on_Videos.ipynb
+Transfer_Learning_on_text.ipynb
+Transfer_Learning_with_TensorFlow_Feature_Extraction.ipynb
+Transfer_learning_fine_tuning.ipynb
+Transfer_Learning_with_TensorFlow_Fine_tuning_Part_2.ipynb
+Transfer_Learning_with_TensorFlow_Fine_tuning_Part_3.ipynb
+
+
+Part 3
+Transfer_learning_with_TensorFlow_Hub.ipynb
+transfer_learning_using_state_of_art_models_from_tfhub.ipynb
+Zero_shot_transfer_learning_with_CLIP_model_.ipynb
+
+
